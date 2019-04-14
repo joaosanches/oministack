@@ -9,4 +9,4 @@ Express, MongoDB (Atlas), Socket.io
 ## Deploy
 
 Heroku
-https://projeto-omnistack-backend.herokuap
+https://projeto-omnistack-backend.herokuapp.com
